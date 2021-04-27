@@ -20,7 +20,14 @@ img {
 }
 
 .wrap {
-  padding-top: 15%;
+  padding-top: 15vh;
+}
+
+.me {
+  padding: 2em;
+  height: 15em;
+  width: 17em;
+  border-radius: 50%;
 }
 
 .red {
@@ -28,6 +35,7 @@ img {
 }
 
 .projects {
+  padding-top:  5em;
   text-decoration: underline;
 }
 
@@ -35,11 +43,11 @@ a {
   text-decoration: none;
 }
 
-h3 {
+h2 {
   margin: .5em auto;
   color: white;
 }
 
-h3:hover {
+h2:hover {
   color: navy;
 }
